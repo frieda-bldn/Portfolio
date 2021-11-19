@@ -16,3 +16,16 @@ This portfolio displays my current Python skills and coding projects I acquired 
 5. EEG data
 
 
+#### 1) Coding with pandas DataFrames
+
+
+#### 2) Visualization in Python
+
+
+#### 3) EDA
+
+
+#### 4) Single-unit data
+
+
+#### 5) EEG data
