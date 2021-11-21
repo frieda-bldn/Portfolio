@@ -28,3 +28,11 @@ This portfolio displays my current coding projects and python skills I acquired 
 
 
 #### 5) EEG data
+
+
+Here is a Demo Video which I created in the beginning of the course "Neural Data Science" at Dalhousie University,
+in which I explain different strategies of string formatting.
+
+[String formatting](String formatting video)
+
+
