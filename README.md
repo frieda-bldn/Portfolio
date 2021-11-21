@@ -37,5 +37,7 @@ in which I explain different strategies of [String formatting](String formatting
 
 
 
+
 Don't hesitate to contact me via:
+
 [fr361839@dal.ca](mailto:fr361839@dal.ca) or [frieda.balduin@web.de](mailto:frieda.balduin@web.de).
