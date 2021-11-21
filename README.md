@@ -1,6 +1,6 @@
 ## Portfolio
 
-(Profile picture.JPG)
+![alt text](https://github.com/friedabalduin/Portfolio/blob/ba59090c31e95057d382d31b524feab4cc227823/Profile%20picture.JPG)
 
 ### About me
 
