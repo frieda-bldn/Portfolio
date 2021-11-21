@@ -1,5 +1,7 @@
 ## Portfolio
 
+(Profile picture.JPG)
+
 ### About me
 
 Hi, welcome to my portfolio. My name is Frieda Balduin, and I am a third-year psychology student at Maastricht University.
@@ -34,3 +36,6 @@ in which I explain different strategies of [String formatting](String formatting
 #### 5) EEG data
 
 
+
+Don't hesitate to contact me via:
+[fr361839@dal.ca](mailto:fr361839@dal.ca) or [frieda.balduin@web.de](mailto:frieda.balduin@web.de).
