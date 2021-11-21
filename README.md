@@ -7,6 +7,10 @@ Hi, welcome to my portfolio. My name is Frieda Balduin, and I am a third-year ps
 I am currently on exchange at Dalhousie University, NS, and the main emphasis of my studies is clinical neuroscience.
 This portfolio displays my current coding projects and python skills I acquired so far.
 
+If you have any questions or remarks, don't hesitate to contact me via:
+[fr361839@dal.ca](mailto:fr361839@dal.ca) or [frieda.balduin@web.de](mailto:frieda.balduin@web.de).
+
+
 ### Main content
 
 First, here is a Demo Video which I created in the beginning of the course "Neural Data Science",
@@ -24,7 +28,7 @@ Here is an example of my work with pandas DataFrames.
 
 First, I learned working with matplotlib, and the differences between procedural and object-oriented plotting.
 Using object-oriented plotting, I got to know how to generate sublots and modify such figures in specific ways.
-Afterwards, seaborn was introduced. Here is an example of code for [plotting with seaborn](Github Portfolio.md) in python. 
+Afterwards, seaborn was introduced, for which I created this [example](Github Portfolio.md) in python. 
 (# comment : I know that it is not possible to see the graphs. I don't know why, that's something I still have to figure out).
 
 
@@ -35,6 +39,10 @@ Afterwards, seaborn was introduced. Here is an example of code for [plotting wit
 
 #### 4) Single-unit data
 
+Single-unit data is recorded from an individual neuron and describes therefore its firing patterns.
+Such spike train activity can be illustrated by raster plots or peri-stimulus time histograms, as can be seen in this [example]().
+
+Furthermore, it is also possible to work with data of multielectrode arrays.
 
 
 #### 5) EEG data
@@ -44,6 +52,3 @@ The data can be viewed in a time or frequency domain.
 
 A "subtype" are Event-Related Potentials (ERPs), small cutouts of activity bursts due to stimulation.
 
-
-Don't hesitate to contact me via:
-[fr361839@dal.ca](mailto:fr361839@dal.ca) or [frieda.balduin@web.de](mailto:frieda.balduin@web.de).
