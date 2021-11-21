@@ -9,13 +9,6 @@ This portfolio displays my current coding projects and python skills I acquired 
 
 ### Main content
 
-1. Coding with pandas DataFrames
-2. Visualization in Python
-3. EDA
-4. Single-unit data
-5. EEG data
-
-
 First, here is a Demo Video which I created in the beginning of the course "Neural Data Science" at Dalhousie University,
 in which I explain different strategies of [String formatting](String formatting video.webm).
 
