@@ -28,15 +28,21 @@ Afterwards, seaborn was introduced. Here is an example of code for [plotting wit
 (# comment : I know that it is not possible to see the graphs. I don't know why, that's something I still have to figure out).
 
 
-#### 3) EDA
+#### 3) Exploratory Data Analysis
+
+
 
 
 #### 4) Single-unit data
 
 
+
 #### 5) EEG data
 
+EEG data is a continuos time series. It includes a spatial dimension, and its recorded activity varies constantly. 
+The data can be viewed in a time or frequency domain.
 
+A "subtype" are Event-Related Potentials (ERPs), small cutouts of activity bursts due to stimulation.
 
 
 Don't hesitate to contact me via:
