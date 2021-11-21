@@ -18,7 +18,11 @@ in which I explain different strategies of [String formatting](String formatting
 
 #### 2) Visualization in Python
 
-Here is an example of code for [plotting with seaborn](Github Portfolio.md) in python.
+First, I learned working with matplotlib, and the differences between procedural and object-oriented plotting.
+Using object-oriented plotting, I got to know how to generate sublots and modify such figures in specific ways.
+Afterwards, seaborn was introduced. Here is an example of code for [plotting with seaborn](Github Portfolio.md) in python. 
+(# comment : I know that it is not possible to see the graphs. I don't know why, that's something I still have to figure out).
+
 
 #### 3) EDA
 
