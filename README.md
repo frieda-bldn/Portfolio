@@ -1,5 +1,5 @@
 
-(https://github.com/friedabalduin/Portfolio/blob/ba59090c31e95057d382d31b524feab4cc227823/Profile%20picture.JPG)
+![Profile picture](https://user-images.githubusercontent.com/85937238/142776792-40ad8e4a-59e3-4256-bf68-6850cb9adb6f.JPG)
 
 ### About me
 
