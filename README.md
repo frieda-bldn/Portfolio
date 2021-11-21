@@ -1,5 +1,4 @@
-# Portfolio
-## Frieda Balduin
+## Portfolio
 
 ### About me
 
