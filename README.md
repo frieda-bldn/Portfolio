@@ -18,6 +18,7 @@ in which I explain different strategies of [String formatting](String formatting
 
 #### 2) Visualization in Python
 
+Here is an example of code for [plotting with seaborn](Github Portfolio.md) in python.
 
 #### 3) EDA
 
