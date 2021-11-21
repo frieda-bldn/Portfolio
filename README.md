@@ -1,6 +1,5 @@
-## Portfolio
 
-![alt text](https://github.com/friedabalduin/Portfolio/blob/ba59090c31e95057d382d31b524feab4cc227823/Profile%20picture.JPG)
+(https://github.com/friedabalduin/Portfolio/blob/ba59090c31e95057d382d31b524feab4cc227823/Profile%20picture.JPG)
 
 ### About me
 
@@ -39,5 +38,4 @@ in which I explain different strategies of [String formatting](String formatting
 
 
 Don't hesitate to contact me via:
-
 [fr361839@dal.ca](mailto:fr361839@dal.ca) or [frieda.balduin@web.de](mailto:frieda.balduin@web.de).
