@@ -15,6 +15,10 @@ in which I explain different strategies of [String formatting](String formatting
 
 #### 1) Coding with pandas DataFrames
 
+My python experience started with acquisition of knowledge about basic concepts like lists, dictionaries, for loops and conditionals. 
+The integration of pandas DataFrames made coding a little more complex for the first time. 
+Here is an example of my work with pandas DataFrames.
+
 
 #### 2) Visualization in Python
 
