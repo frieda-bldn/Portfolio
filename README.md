@@ -21,7 +21,7 @@ in which I explain different strategies of [String formatting](String formatting
 
 My python experience started with acquisition of knowledge about basic concepts like lists, dictionaries, for loops and conditionals. 
 The integration of pandas DataFrames made coding a little more complex for the first time. 
-Here is an example of my work with pandas DataFrames.
+Here is an example of my work with pandas DataFrames. (# still coming)
 
 
 #### 2) Visualization in Python
@@ -34,13 +34,17 @@ Afterwards, seaborn was introduced, for which I created this [example](Github Po
 
 #### 3) Exploratory Data Analysis
 
+EDA in python includes the drawing various plots on different conditions and correlations, using Seaborn or other visualization techniques.
+I learned to work with aggregate data (averages within conditions and participants) by using Split-Apply Combine operations, and how to deal with outliers.
 
+Furthermore, I also learned statistic operations in python, including paired and one-sample t-tests.
+(# example will be added)
 
 
 #### 4) Single-unit data
 
 Single-unit data is recorded from an individual neuron and describes therefore its firing patterns.
-Such spike train activity can be illustrated by raster plots or peri-stimulus time histograms, as can be seen in this [example]().
+Such spike train activity can be illustrated by raster plots or peri-stimulus time histograms, as can be seen in this [example]. (# still coming)
 
 Furthermore, it is also possible to work with data of multielectrode arrays.
 
