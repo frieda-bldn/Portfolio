@@ -9,7 +9,7 @@ This portfolio displays my current coding projects and python skills I acquired 
 
 ### Main content
 
-First, here is a Demo Video which I created in the beginning of the course "Neural Data Science" at Dalhousie University,
+First, here is a Demo Video which I created in the beginning of the course "Neural Data Science",
 in which I explain different strategies of [String formatting](String formatting video.webm).
 
 
